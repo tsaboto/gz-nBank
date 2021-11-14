@@ -40,4 +40,4 @@ Transaction Must Be On The Statement
 Error Message Should Be
     [Arguments]     ${expected_message}
     Wait For Elements State     css=.message >> text=${expected_message}
-    ...                         visible     5
+    ...                         visible     4

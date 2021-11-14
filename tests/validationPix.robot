@@ -11,14 +11,7 @@ Test Teardown       End Session
 
 *Test Cases*
 
-### Cenario 2: Fazer PIX
-# Dado que meu saldo é de R$ 1000 = OK
-# E acesso a home nBank= OK
-# Quando faço um PIX no valor de R$ 100 =OK
-# Então meu saldo final deve ser de R$ 900 = OK 
-# E a transação em questão é adicionada no meu Extrato
-
-Do pix with positive value
+Send a Pix with positive value
     [Tags]      doing
 
     ${pix_information}          Factory Pix Positive Value 
@@ -28,14 +21,7 @@ Do pix with positive value
     Check The Balance           Papito          900
     Transaction Must Be On The Statement    ${pix_information} 
 
-
-### Cenario 3: PIX com valor ZERO
-# Dado que meu saldo é de R$ 1000
-# E acesso a home nBank
-# Quando faço um PIX no valor de R$ 0
-# Então vejo a mensgem de alerta "Oops. Transferir ZERO é osso hein..."
-
-Do pix with zero value 
+Send a Pix with zero value 
 
     [Tags]      doing
 
@@ -46,7 +32,7 @@ Do pix with zero value
     Send Pix
     Error Message Should Be     Oops. Transferir ZERO é osso hein...
 
-Do pix with negative value
+Send a Pix with negative value
 
     [Tags]      doing
     &{pix_information}          Factory Pix Negative Value

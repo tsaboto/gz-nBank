@@ -1,0 +1,82 @@
+{"level":30,"time":"2021-11-14T23:52:20.284Z","pid":61984,"hostname":"TatiSaboto","msg":"Listening on 59043"}
+{"level":30,"time":"2021-11-14T23:52:21.039Z","pid":61984,"hostname":"TatiSaboto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-14T23:52:21.056Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:21.721Z","pid":61984,"hostname":"TatiSaboto","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-14T23:52:21.721Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:23.751Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000 in page."}
+{"level":30,"time":"2021-11-14T23:52:23.868Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:23.868Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:23.868Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:23.913Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:23.913Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:23.913Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:24.166Z","pid":61984,"hostname":"TatiSaboto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-14T23:52:24.173Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:24.611Z","pid":61984,"hostname":"TatiSaboto","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-14T23:52:24.611Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:25.975Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with text=Fazer Pix in page."}
+{"level":30,"time":"2021-11-14T23:52:27.077Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.modal-card-title >> text=PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:27.097Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2021-11-14T23:52:28.131Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Chave PIX'] in page."}
+{"level":30,"time":"2021-11-14T23:52:29.168Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Valor'] in page."}
+{"level":30,"time":"2021-11-14T23:52:30.206Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=button >> text= Enviar PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:31.263Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.navbar-item >> text= Olá Papito, seu saldo é R$ 900 in page."}
+{"level":30,"time":"2021-11-14T23:52:31.279Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),'Nubank')]/.. in page."}
+{"level":30,"time":"2021-11-14T23:52:31.289Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),'Nubank')]/.. in page."}
+{"level":30,"time":"2021-11-14T23:52:31.303Z","pid":61984,"hostname":"TatiSaboto","msg":"Retrieved text for element xpath=//td[contains(text(),'Nubank')]/.. containing 955-918-3102\tEnvio de PIX\tNubank - PIX para 1234554321\t11/14/2021\tR$ -100 "}
+{"level":30,"time":"2021-11-14T23:52:31.305Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),'Nubank')]/.. in page."}
+{"level":30,"time":"2021-11-14T23:52:31.312Z","pid":61984,"hostname":"TatiSaboto","msg":"Retrieved text for element xpath=//td[contains(text(),'Nubank')]/.. containing 955-918-3102\tEnvio de PIX\tNubank - PIX para 1234554321\t11/14/2021\tR$ -100 "}
+{"level":30,"time":"2021-11-14T23:52:31.313Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(),'Nubank')]/.. in page."}
+{"level":30,"time":"2021-11-14T23:52:31.319Z","pid":61984,"hostname":"TatiSaboto","msg":"Retrieved text for element xpath=//td[contains(text(),'Nubank')]/.. containing 955-918-3102\tEnvio de PIX\tNubank - PIX para 1234554321\t11/14/2021\tR$ -100 "}
+{"level":30,"time":"2021-11-14T23:52:31.401Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:31.402Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:31.402Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:31.425Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:31.426Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:31.426Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:31.748Z","pid":61984,"hostname":"TatiSaboto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-14T23:52:31.756Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:32.216Z","pid":61984,"hostname":"TatiSaboto","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-14T23:52:32.227Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:33.513Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with text=Fazer Pix in page."}
+{"level":30,"time":"2021-11-14T23:52:34.591Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.modal-card-title >> text=PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:34.618Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2021-11-14T23:52:35.662Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Chave PIX'] in page."}
+{"level":30,"time":"2021-11-14T23:52:36.689Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Valor'] in page."}
+{"level":30,"time":"2021-11-14T23:52:37.720Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=button >> text= Enviar PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:38.769Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.message >> text=Oops. Transferir ZERO é osso hein... in page."}
+{"level":30,"time":"2021-11-14T23:52:38.896Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:38.896Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:38.896Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:38.901Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:38.901Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:38.901Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:39.198Z","pid":61984,"hostname":"TatiSaboto","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-14T23:52:39.223Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:39.674Z","pid":61984,"hostname":"TatiSaboto","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-14T23:52:39.676Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:41.220Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with text=Fazer Pix in page."}
+{"level":30,"time":"2021-11-14T23:52:42.291Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.modal-card-title >> text=PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:42.315Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.field select in page."}
+{"level":30,"time":"2021-11-14T23:52:43.349Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Chave PIX'] in page."}
+{"level":30,"time":"2021-11-14T23:52:44.374Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=input[placeholder='Valor'] in page."}
+{"level":30,"time":"2021-11-14T23:52:45.404Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=button >> text= Enviar PIX in page."}
+{"level":30,"time":"2021-11-14T23:52:46.457Z","pid":61984,"hostname":"TatiSaboto","msg":"Strict mode is enabled, find Locator with css=.message >> text=Oops. Valor para PIX incorreto... in page."}
+================= Original suppressed error =================
+locator.waitFor: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.message >> text=Oops. Valor para PIX incorreto..." to be visible
+============================================================
+    at /opt/homebrew/lib/python3.9/site-packages/Browser/wrapper/index.js:24048:50
+    at step (/opt/homebrew/lib/python3.9/site-packages/Browser/wrapper/index.js:23911:23)
+    at Object.next (/opt/homebrew/lib/python3.9/site-packages/Browser/wrapper/index.js:23892:53)
+    at fulfilled (/opt/homebrew/lib/python3.9/site-packages/Browser/wrapper/index.js:23883:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-11-14T23:52:51.687Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:51.687Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:51.687Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
+{"level":30,"time":"2021-11-14T23:52:51.692Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active context"}
+{"level":30,"time":"2021-11-14T23:52:51.692Z","pid":61984,"hostname":"TatiSaboto","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-14T23:52:51.692Z","pid":61984,"hostname":"TatiSaboto","msg":"Changed active page"}
